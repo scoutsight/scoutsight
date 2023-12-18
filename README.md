@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @scoutsight
-- 👀 I like gaming, anime/manga/weeb stuff, music and very lignt coding
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on using what I know to make cool/useful things
+- 👀 I'm learning Python and Machine Learning
 - 📫 How to reach me: message me for discord
 - Nice to meet you :D
 
