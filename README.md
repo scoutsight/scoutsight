@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scoutsight
-- 👀 I'm learning Python and Machine Learning
-- 📫 How to reach me: message me for discord
+- 👀 I'm learning Python, C#, HTML/CSS, JavaScript and the MERN Framework
+- 📫 How to reach me: message me on Discord (scoutsight)
 - Nice to meet you :D
 
 <!---
